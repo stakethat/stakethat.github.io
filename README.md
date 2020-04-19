@@ -1,4 +1,4 @@
-![stakethat.xyz](https://github.com/stakethat/stakethat.github.io/blob/master/stakethat.jpg)
+![stakethat.xyz](https://raw.githubusercontent.com/stakethat/stakethat.github.io/master/stakethat.jpg)
 
 POS node operator
 
